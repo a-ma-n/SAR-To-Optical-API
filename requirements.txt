@@ -1,0 +1,9 @@
+git+https://www.github.com/keras-team/keras-contrib.git
+tensorflow
+keras
+scikit-image
+Flask
+rasterio
+requests
+numpy
+pillow
